@@ -1,0 +1,396 @@
+#LyX 2.3 created this file. For more info see http://www.lyx.org/
+\lyxformat 544
+\begin_document
+\begin_header
+\save_transient_properties true
+\origin unavailable
+\textclass article
+\use_default_options true
+\begin_modules
+customHeadersFooters
+\end_modules
+\maintain_unincluded_children false
+\language catalan
+\language_package default
+\inputencoding auto
+\fontencoding global
+\font_roman "default" "default"
+\font_sans "default" "default"
+\font_typewriter "default" "default"
+\font_math "auto" "auto"
+\font_default_family rmdefault
+\use_non_tex_fonts false
+\font_sc false
+\font_osf false
+\font_sf_scale 100 100
+\font_tt_scale 100 100
+\use_microtype false
+\use_dash_ligatures true
+\graphics default
+\default_output_format default
+\output_sync 0
+\bibtex_command default
+\index_command default
+\paperfontsize 10
+\spacing single
+\use_hyperref true
+\pdf_title "Encreuats 2021-12-17"
+\pdf_author "Quim Testar"
+\pdf_bookmarks true
+\pdf_bookmarksnumbered false
+\pdf_bookmarksopen false
+\pdf_bookmarksopenlevel 1
+\pdf_breaklinks false
+\pdf_pdfborder true
+\pdf_colorlinks true
+\pdf_backref false
+\pdf_pdfusetitle true
+\papersize default
+\use_geometry false
+\use_package amsmath 1
+\use_package amssymb 1
+\use_package cancel 1
+\use_package esint 1
+\use_package mathdots 1
+\use_package mathtools 1
+\use_package mhchem 1
+\use_package stackrel 1
+\use_package stmaryrd 1
+\use_package undertilde 1
+\cite_engine basic
+\cite_engine_type default
+\biblio_style plain
+\use_bibtopic false
+\use_indices false
+\paperorientation portrait
+\suppress_date false
+\justification true
+\use_refstyle 1
+\use_minted 0
+\index Index
+\shortcut idx
+\color #008000
+\end_index
+\leftmargin 2cm
+\topmargin 2cm
+\rightmargin 2cm
+\bottommargin 2cm
+\headheight 2cm
+\headsep 2cm
+\footskip 2cm
+\secnumdepth 3
+\tocdepth 3
+\paragraph_separation indent
+\paragraph_indentation default
+\is_math_indent 0
+\math_numbering_side default
+\quotes_style french
+\dynamic_quotes 0
+\papercolumns 1
+\papersides 1
+\paperpagestyle fancy
+\tracking_changes false
+\output_changes false
+\html_math_output 0
+\html_css_as_file 0
+\html_be_strict false
+\end_header
+
+\begin_body
+
+\begin_layout Center Footer
+
+\end_layout
+
+\begin_layout Right Header
+
+\family typewriter
+\shape slanted
+2021-12-17
+\end_layout
+
+\begin_layout Standard
+\align center
+\begin_inset Graphics
+	filename enc20211217.blank.png
+	scale 50
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+\begin_inset VSpace 1cm
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+\begin_inset Tabular
+<lyxtabular version="3" rows="2" columns="2">
+<features tabularvalignment="middle">
+<column alignment="left" valignment="top" width="50text%">
+<column alignment="left" valignment="top" width="50text%">
+<row>
+<cell alignment="left" valignment="top" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+
+\series bold
+\size large
+Horitzontals
+\end_layout
+
+\begin_layout Plain Layout
+\begin_inset VSpace defskip
+\end_inset
+
+
+\end_layout
+
+\end_inset
+</cell>
+<cell alignment="left" valignment="top" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+
+\series bold
+\size large
+Verticals
+\end_layout
+
+\begin_layout Plain Layout
+\begin_inset VSpace defskip
+\end_inset
+
+
+\end_layout
+
+\end_inset
+</cell>
+</row>
+<row>
+<cell alignment="left" valignment="top" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+1.
+ Fartes de menjar patates.
+\begin_inset Newline newline
+\end_inset
+
+9.
+ Aquest aliment de seguida estarà llest per servir.
+\begin_inset Newline newline
+\end_inset
+
+10.
+ Pàlid i a un pas de la mort però amb una gran consciència moral.
+\begin_inset Newline newline
+\end_inset
+
+12.
+ Rodona.
+\begin_inset Newline newline
+\end_inset
+
+13.
+ En 
+\begin_inset CommandInset href
+LatexCommand href
+name "@jaume_diadoc"
+target "https://twitter.com/jaume_diadoc"
+literal "false"
+
+\end_inset
+
+ diu que no vindrà a la festa tot i haver-lo convidat.
+\begin_inset Newline newline
+\end_inset
+
+15.
+ Diverses cares.
+\begin_inset Newline newline
+\end_inset
+
+17.
+ Podem d'antes.
+\begin_inset Newline newline
+\end_inset
+
+18.
+ Difícils d'abastar.
+\begin_inset Newline newline
+\end_inset
+
+20.
+ La vida ho fa bastant.
+\begin_inset Newline newline
+\end_inset
+
+22.
+ Els putos vèrtexs del petit dodecàedre estelat.
+\begin_inset Newline newline
+\end_inset
+
+23.
+ Dubte.
+\begin_inset Newline newline
+\end_inset
+
+25.
+ Entre notes.
+\begin_inset Newline newline
+\end_inset
+
+26.
+ Vins sicilians.
+\begin_inset Newline newline
+\end_inset
+
+28.
+ Aquestes lliguen usant amoníac.
+\begin_inset Newline newline
+\end_inset
+
+30.
+ Vaig anar.
+\begin_inset Newline newline
+\end_inset
+
+31.
+ Penso en balear.
+\begin_inset Newline newline
+\end_inset
+
+32.
+ Les cosinetes de la 
+\begin_inset CommandInset href
+LatexCommand href
+name "@drolerie2017"
+target "https://twitter.com/drolerie2017"
+literal "false"
+
+\end_inset
+
+.
+\begin_inset Newline newline
+\end_inset
+
+34.
+ El bot normatiu em donava la murga amb aquest plural.
+\end_layout
+
+\end_inset
+</cell>
+<cell alignment="left" valignment="top" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+1.
+ Muntanya aleví.
+\begin_inset Newline newline
+\end_inset
+
+2.
+ D'un poble de la Ribera Baixa.
+\begin_inset Newline newline
+\end_inset
+
+3.
+ Els ets i diversos d'aquest.
+\begin_inset Newline newline
+\end_inset
+
+4.
+ Donaran forma.
+\begin_inset Newline newline
+\end_inset
+
+5.
+ Sang de sargantana.
+\begin_inset Newline newline
+\end_inset
+
+6.
+ Apassionada.
+\begin_inset Newline newline
+\end_inset
+
+7.
+ Gas de soldar.
+\begin_inset Newline newline
+\end_inset
+
+8.
+ Per aquesta no he trobat cap descripció satisfactòria.
+ Us espavileu amb les lletres que arreplegueu de les paraules creuades i
+ després si voleu em poseu les vostres propostes aquí.
+\begin_inset Newline newline
+\end_inset
+
+9.
+ Empoderar.
+\begin_inset Newline newline
+\end_inset
+
+11.
+ Fossis origen i explicació.
+\begin_inset Newline newline
+\end_inset
+
+14.
+ Et fessis escoltar al País Valencià.
+\begin_inset Newline newline
+\end_inset
+
+16.
+ Farceix d'esperma.
+\begin_inset Newline newline
+\end_inset
+
+19.
+ Tinc un punt de vista privilegiat.
+\begin_inset Newline newline
+\end_inset
+
+21.
+ Subnormal i pintoresc.
+\begin_inset Newline newline
+\end_inset
+
+24.
+ En compti tres.
+\begin_inset Newline newline
+\end_inset
+
+27.
+ Nitrògens.
+\begin_inset Newline newline
+\end_inset
+
+29.
+ Dotze grams de carboni.
+\begin_inset Newline newline
+\end_inset
+
+33.
+ Protopdf.
+\end_layout
+
+\end_inset
+</cell>
+</row>
+</lyxtabular>
+
+\end_inset
+
+
+\end_layout
+
+\end_body
+\end_document
